@@ -86,7 +86,7 @@ The output demonstrates that both objects were created from the same class but c
 Compile the program with:
 
 ```bash
-javac -d out src/DifferenceObjectsClasses.java
+javac -d out DifferenceObjectsClasses.java
 ```
 
 Run the program with:
