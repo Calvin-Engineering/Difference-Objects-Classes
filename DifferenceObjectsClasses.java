@@ -29,7 +29,7 @@ public class DifferenceObjectsClasses {
     public static void main(String[] args) {
 
         /*
-         * carOne and carTwo are objects.
+         * carOne and carTwo are the objects.
          * They are two separate instances created from the same Car class.
          * Each object has its own state, including its own color and year.
          */
